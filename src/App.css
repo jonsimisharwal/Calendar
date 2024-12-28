@@ -1,0 +1,77 @@
+.calendarcss{
+  color:rgb(15, 13, 13);
+  font-size:14px;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  height:100vh;
+  width:100vw;
+ 
+}
+.rbc-toolbar :hover{
+  background-color: rgb(26, 127, 241);
+}
+.rbc-header{
+  color:whitesmoke;
+  font-size:20px;
+  background:rgb(26, 127, 241);
+  display:flex;
+  justify-content: center;
+}
+.rbc-allday-cell{
+  display:none;
+}
+.rbc-time-header-cell .rbc-today{
+  background-color: green;
+}
+.rbc-time-slot{
+  color:rgb(26, 127, 241);
+  z-index: 1;
+}
+.rbc-time-slot :not(.rbc-today .rbc-time-slot){
+  background-color: whitesmoke;
+}
+.rbc-event,.rbc-background-event{
+  z-index: 2;
+}
+.rbc-events-container{
+  width:100%;
+}
+.form-control{
+  background-color:whitesmoke;
+  border-radius: 6px;
+  color:black;
+}
+.time-control{
+  color:black;
+  background-color: azure;
+  width:30px;
+}
+.duration-control{
+  color:black;
+ 
+}
+.designcal{
+    align-content: normal;
+    }
+.modal-dialog{
+  color:black;
+  font-size:14px;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  height:400px;
+  }
+.modal-content{
+  border-width: 10px solid black;
+  padding: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgb(116, 113, 113);
+}
+.rbc-agenda-table{
+  flex-direction: row;
+}
+
+
