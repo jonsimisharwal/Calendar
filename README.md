@@ -30,3 +30,11 @@ Click on a specific date and time to create an event.
 Fill in the event details (e.g., title, start and end time, description, location, email).
 Save the event to see it displayed on the calendar.
 Edit or delete events by selecting them.
+
+## Connect with Me
+
+I'm always open to connect with fellow developers and collaborators. Feel free to reach out to me through the following channels:
+
+- Email: jonsimisharwal@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jonsi-misharwal-24295b286/
+
