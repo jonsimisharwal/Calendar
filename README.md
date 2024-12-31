@@ -1,4 +1,4 @@
-React Calendar Project
+#React Calendar Project
 🗓️ Overview
 This React Calendar project is a modern, interactive calendar application where users can schedule, edit, and delete events with ease. It is designed to be user-friendly and visually appealing, making it perfect for personal or professional use.
 
